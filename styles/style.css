@@ -292,9 +292,9 @@
 
 .footer_address {
   display: grid;
-  height: 98px;
-  font-weight: 400;
   font-size: 18px;
+  height: 98px;
+  font-weight: 400; 
   line-height: 1.35;
   font-style: normal;
 }

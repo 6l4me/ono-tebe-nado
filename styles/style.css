@@ -40,7 +40,7 @@
 
 .address {
   display: grid;
-  padding: 5px 28px 2px 185px;
+  padding: 5px 60px 2px 185px;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.35;
@@ -108,7 +108,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 135px 50px 51px 78px;
+  padding: 135px 50px 51px 70px;
   z-index: 1;
   position: relative;
   color: #fff;
@@ -282,7 +282,7 @@
 }
 
 .footer__menu {
-  padding: 0 185px 34px 184px;
+  padding: 1px 160px 34px 190px;
 }
 
 .footer__menu-list {

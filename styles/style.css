@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 92px 24px 60px;
+  padding: 92px 24px 96px;
 }
 
 .header__menu {
@@ -48,6 +48,7 @@
 }
 
 .cover {
+  margin-left: 13px;
   background-image: url('../images/cover.jpg');
   position: relative;
   background-size: cover;
